@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "blog"
+name = "agonegen.github.io"
 version = "0.1.0"
 description = ""
 authors = ["agonegen <agonegen@gmail.com>"]
@@ -12,6 +12,8 @@ ipython = "^7.21.0"
 matplotlib = "^3.3.4"
 sklearn = "^0.0"
 numpy = "^1.20.1"
+ghp-import = "^1.1.0"
+Markdown = "^3.3.4"
 
 [tool.poetry.dev-dependencies]
 
